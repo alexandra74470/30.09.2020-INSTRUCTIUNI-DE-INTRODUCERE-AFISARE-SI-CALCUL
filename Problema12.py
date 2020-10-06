@@ -1,0 +1,5 @@
+a=int(input("introduceti numarul de oua date de prima gaina intr-o zi"))
+b=int(input("introduceti numarul de oua date de a doua gainaintr-o zi"))
+c=int(input("introduceti numarul de oua date de a treia gaina intr-o zi"))
+d=int(input("introduceti numarul de oua date de a patra gaina intr-o zi"))
+print((a+b+c+d)*7)
